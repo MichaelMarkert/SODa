@@ -5,12 +5,12 @@
 [Rückübertragung von Nutzungsrechten von einem Verlag](#r%C3%BCck%C3%BCbertragung-von-nutzungsrechten-von-einem-verlag) 
 
 ## Urheberrecht
-**Wer hat die Nutzungsrechte von Fotos von Licht- und Elektronenmikroskopischen Aufnahmen, wenn der Urheber ein haushaltsfinanzierter Mitarbeiter einer Universität ist, die
+**Wer hat die Nutzungsrechte an Mikrofotografien, wenn der Urheber ein haushaltsfinanzierter Mitarbeiter einer Universität ist, die
 Aufnahmen in der Dienstzeit an Geräten der Universität angefertigt wurden?**
 
 Nach § 31 Abs. 1 UrhG ist eine Einräumung von Nutzungsrechten für “andere” und damit auch für den AG bzw. die Institution möglich, aber auch nötig. Ggf. ist die Einräumung aus dem Arbeitsvertrag ableitbar (§ 43 UrhG), wenn die Erstellung von wissenschaftlichen Fotografien zu den Kernaufgaben der Mitarbeiter:in gehört und das etwa in der Arbeitsvorgangsbeschreibung benannt wird. Das ist vermutlich eher bei technischem Personal der Fall. Grundsätzlich handelt es sich aber um nicht-exklusive Nutzungsrechte, d. h. es könnte keine eigenständige Lizenzierung oder Vergabe von Nutzungsrechten etwa durch einen Sammlungskustos oder Forschende z. B. bei einer Veröffentlichung erfolgen. Auch wären ‘neue’ Nutzungsarten ohne gesonderte Vereinbarung vermutlich nicht abgedeckt (vgl. § 31 Abs. 5 UrhG)  – etwa dürfte bei Fotografien aus den 1990er Jahren bei der Tätigkeitsbeschreibung eine Printveröffentlichung mitgedacht worden sein, nicht aber eine digitale Portalausspielung.
 
-Was die Schöpfungshöhe solcher Digitalisate betrifft:
+**Haben Mikrofotografien eine Schöpfungshöhe?**
 
 Nach § 2 UrhG sind “(2) Werke im Sinne dieses Gesetzes [...] nur persönliche geistige Schöpfungen.”
 
