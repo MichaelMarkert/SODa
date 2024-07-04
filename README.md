@@ -1,4 +1,4 @@
-# FAQ
+# FAQ Hilfestellung zur Rechts- und Ethikfragen in der Sammlungsdigitalisierung
 ## Urheberrecht
 **Wer hat die Nutzungsrechte von Fotos von Licht- und Elektronenmikroskopischen Aufnahmen, wenn der Urheber ein haushaltsfinanzierter Mitarbeiter einer Universität ist, die
 Aufnahmen in der Dienstzeit an Geräten der Universität angefertigt wurden?**
