@@ -25,7 +25,7 @@ Die Frage wäre hier, wie groß der Gestaltungsspielraum bei einer Mikrofotograf
 ### Übertragung von Nutzungsrechten Dritter an Institutionen
 >**Ich möchte Kollegen, die zumal in absehbarer Zeit in den Ruhestand gehen, davon "überzeugen", dass ihre Digitalisate geordnet übergeben.**
 
-Das ist sicherlich ratsam, denn sonst ist wahrscheinlich keine weitere Nutzung von deren Arbeit ohne Verletzung von Rechten möglich. Empfehlen könnte man standardisierte Nutzungsvereinbarungen mit allen Fotograf:innen, die die Übertragung exklusiver Nutzungsrechte an die sammelnde Institution enthalten. Alternativ könnten die Rechteinhaber:innen dabei unterstützt werden, selbst alle entsprechenden Abbildungen unter einer geeigneten Lizenz – wie CC-BY 4.0 – zu publizieren – etwa in einem Forschungsdatenrepositorium ihrer Hochschule. In diesem Fall wären alle Interessent:innen – inklusive der Urheber:innen – völlig frei in den Möglichkeiten der Nachnutzung, solange eine Namensnennung erfolgt. (MM)
+Das ist ratsam, denn sonst ist wahrscheinlich keine weitere Nutzung von deren Arbeit ohne Verletzung von Rechten möglich. Empfehlen könnte man standardisierte Nutzungsvereinbarungen mit allen Fotograf:innen, die die Übertragung exklusiver Nutzungsrechte an die sammelnde Institution enthalten. Alternativ könnten die Rechteinhaber:innen dabei unterstützt werden, selbst alle entsprechenden Abbildungen unter einer geeigneten Lizenz – wie CC-BY 4.0 – zu publizieren – etwa in einem Forschungsdatenrepositorium ihrer Hochschule. In diesem Fall wären alle Interessent:innen – inklusive der Urheber:innen – völlig frei in den Möglichkeiten der Nachnutzung, solange eine Namensnennung erfolgt. (MM)
 
 ### Rückübertragung von Nutzungsrechten von einem Verlag
 
