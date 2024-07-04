@@ -1,4 +1,9 @@
 # FAQ Hilfestellung zur Rechts- und Ethikfragen in der Sammlungsdigitalisierung
+## TOC
+[Urheberrecht](#urheberrecht)
+
+[Rückübertragung von Nutzungsrechten von einem Verlag](#r%C3%BCck%C3%BCbertragung-von-nutzungsrechten-von-einem-verlag) 
+
 ## Urheberrecht
 **Wer hat die Nutzungsrechte von Fotos von Licht- und Elektronenmikroskopischen Aufnahmen, wenn der Urheber ein haushaltsfinanzierter Mitarbeiter einer Universität ist, die
 Aufnahmen in der Dienstzeit an Geräten der Universität angefertigt wurden?**
