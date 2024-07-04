@@ -1,5 +1,5 @@
 # FAQ Hilfestellung zur Rechts- und Ethikfragen in der Sammlungsdigitalisierung
-## TOC
+## Inhalt
 [Urheberrecht](#urheberrecht)
 
 [Rückübertragung von Nutzungsrechten von einem Verlag](#r%C3%BCck%C3%BCbertragung-von-nutzungsrechten-von-einem-verlag) 
