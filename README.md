@@ -1,6 +1,6 @@
 # FAQ Hilfestellung zu Rechts- und Ethikfragen in der Sammlungsdigitalisierung
 
-Diese FAQ sind das Ergebnis des Austauschs der Mitarbeiter:innen Katharina Leyrer (KL) und Michael Markert (MM) des Expertisebereichs Ethik und Recht in SODa mit Ratsuchenden und dienen als Unterstützung bei der Entscheidungsfindung. 
+Diese FAQ sind das Ergebnis des Austauschs der Mitarbeiter:innen Katharina Leyrer (KL) und Michael Markert (MM) des Expertisebereichs Ethik und Recht im [Datenkompetenzzentrum SODa](https://sammlungen.io) mit Ratsuchenden und dienen als Unterstützung bei der Entscheidungsfindung. 
 
 ## Inhalt
 [Urheberrecht](#urheberrecht) <br>
