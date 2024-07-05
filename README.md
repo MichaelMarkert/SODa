@@ -6,7 +6,7 @@ Diese FAQ sind das Ergebnis des Austauschs der Mitarbeiter:innen Katharina Leyre
 [Urheberrecht](#urheberrecht) <br>
 - [Nutzungsrechte an Mikrofotografien](#nutzungsrechte-an-mikrofotografien) <br>
 - [Schöpfungshöhe von Mikrofotografien](#sch%C3%B6pfungsh%C3%B6he-von-mikrofotografien) <br>
-- [Übertragung von Nutzungsrechten Dritter an Institutionen](#%C3%BCbertragung-von-nutzungsrechten-dritter-an-institutionen) <br>
+- [Übertragung von Nutzungsrechten an die eigene Institution](#%C3%BCbertragung-von-nutzungsrechten-dritter-an-institutionen) <br>
 - [Rückübertragung von Nutzungsrechten von einem Verlag](#r%C3%BCck%C3%BCbertragung-von-nutzungsrechten-von-einem-verlag) <br>
 
 ## Urheberrecht
@@ -22,7 +22,7 @@ Nach § 2 UrhG sind “(2) Werke im Sinne dieses Gesetzes [...] nur persönliche
 
 Die Frage wäre hier, wie groß der Gestaltungsspielraum bei einer Mikrofotografie ist, bei der viele Bildparameter durch die verwendete Technologie definiert werden. Man könnte daher annehmen, dass vielleicht kein Lichtbildwerk, aber ein geschütztes Lichtbild nach § 72 UrhG entsteht. Die Schutzfrist wäre dann bis 50 Jahre nach Veröffentlichung bzw. 50 Jahre nach Entstehung, wenn zwischenzeitlich keine Veröffentlichung erfolgt ist. Gehen Sie hingegen von einem Lichtbildwerk aus, so reicht die Schutzfrist bis 70 Jahre nach dem Tod des Urhebers entsprechend § 64 UrhG. (MM)
 
-### Übertragung von Nutzungsrechten Dritter an Institutionen
+### Übertragung von Nutzungsrechten an die eigene Institution
 >**Ich möchte Kollegen, die zumal in absehbarer Zeit in den Ruhestand gehen, davon "überzeugen", dass ihre Digitalisate geordnet übergeben.**
 
 Das ist ratsam, denn sonst ist wahrscheinlich keine weitere Nutzung von deren Arbeit ohne Verletzung von Rechten möglich. Empfehlen könnte man standardisierte Nutzungsvereinbarungen mit allen Fotograf:innen, die die Übertragung exklusiver Nutzungsrechte an die sammelnde Institution enthalten. Alternativ könnten die Rechteinhaber:innen dabei unterstützt werden, selbst alle entsprechenden Abbildungen unter einer geeigneten Lizenz – wie CC-BY 4.0 – zu publizieren – etwa in einem Forschungsdatenrepositorium ihrer Hochschule. In diesem Fall wären alle Interessent:innen – inklusive der Urheber:innen – völlig frei in den Möglichkeiten der Nachnutzung, solange eine Namensnennung erfolgt. (MM)
