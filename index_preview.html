@@ -4,14 +4,20 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
     <title>FAQ Ethik & Recht</title>
-    
     <script type="module">
       import ZeroMd from 'https://cdn.jsdelivr.net/npm/zero-md@3'
       customElements.define('zero-md', ZeroMd)
     </script>
-    
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const predefinedText = "<template><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5/github-markdown.min.css" /><style>h1, h2, h3, p, a, blockquote { font-family: Open Sans; font-weight: 500}</style></template>";
+            const mdElements = document.querySelectorAll('zero-md');
+            mdElements.forEach(mdElement => {
+                mdElement.textContent = predefinedText;
+            });
+        });
+    </script>
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans" />
-
     <style>
       zero-md {
         display: block;
@@ -22,22 +28,10 @@
         padding: 10px;
       }
     </style>
-    
   </head>
-  
   <body>
-    
-    <zero-md src="https://raw.githubusercontent.com/MichaelMarkert/SODa/main/README.md">
-      <template>
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5/github-markdown.min.css" />
-        <style>
-          h1, h2, h3, p, a, blockquote { font-family: Open Sans; font-weight: 500}
-        </style>
-      </template>
-    </zero-md>
-    
+    <zero-md src="https://raw.githubusercontent.com/MichaelMarkert/SODa/main/README.md"></zero-md>
   </body>
-
 
   
 </html>
