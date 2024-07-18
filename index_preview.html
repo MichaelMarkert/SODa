@@ -5,11 +5,20 @@
     <meta name="viewport" content="width=device-width" />
 
     <title>FAQ Ethik & Recht</title>
-    <link rel="stylesheet" href="style.css" />
+    <script type="module">
+      // Import element definition
+      import ZeroMd from 'https://cdn.jsdelivr.net/npm/zero-md@3'
+      // Register
+      customElements.define('zero-md', ZeroMd)
+    </script>
+    <style>
+      zero-md {
+        display: block;
+        position: relative;
+      }
+    </style>
   </head>
 <body>
-
-  <h1>Test</h1>
-  
+  <zero-md src="readme.md"></zero-md>
 </body>
 </html>
