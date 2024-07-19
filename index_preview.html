@@ -24,10 +24,11 @@
     </style>
   </head>
   <body>
-    <zero-md id="zero-md" src="https://raw.githubusercontent.com/MichaelMarkert/SODa/main/README.md"></zero-md>
-    <zero-md id="zero-md" src="https://raw.githubusercontent.com/MichaelMarkert/SODa/main/README.md"></zero-md>
+    <zero-md class="zero-md" src="https://raw.githubusercontent.com/MichaelMarkert/SODa/main/README.md"></zero-md>
+    <zero-md class="zero-md" src="https://raw.githubusercontent.com/MichaelMarkert/SODa/main/README.md"></zero-md>
     <script>
-      const zeroMDElement = document.getElementById('zero-md');
+      const zeroMDElements = document.querySelectorAll('.zero-md');
+      zeroMDElements.forEach((element, index) => {
       const customText = `
         <template>
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5/github-markdown.min.css" />
@@ -64,7 +65,8 @@
           </style>
         </template>
       `;
-      zeroMDElement.innerHTML = customText;
+      element.innerHTML = customText;
+      });
     </script>
   </body>
 </html>
