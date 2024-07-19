@@ -18,14 +18,10 @@
         margin: auto;
         padding: 10px;
       }
-      body {
-        counter-reset: chapter; /* create a chapter counter scope */
-      }
     </style>
   </head>
   <body>
     <div id="jumpLinkList"></div>
-    <zero-md class="zero-md" src="https://raw.githubusercontent.com/MichaelMarkert/SODa/main/README.md"></zero-md>
     <zero-md class="zero-md" src="https://raw.githubusercontent.com/MichaelMarkert/SODa/main/README.md"></zero-md>
     <script>
       const zeroMDElements = document.querySelectorAll('.zero-md');
@@ -35,57 +31,11 @@
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5/github-markdown.min.css" />
           <style>
             h1, h2, h3, p, a, blockquote { font-family: Open Sans; font-weight: 500}
-            h1:before {
-              content: "Chapter " counter(chapter) ". ";
-              counter-increment: chapter; /* add 1 to chapter */
-            }
-            h1 {
-                counter-reset: subchapter; /* set section to 0 */
-            }
-            h2:before {
-                content: counter(chapter) "." counter(subchapter) " ";
-                counter-increment: subchapter;
-            }
-            h2 {
-            	counter-reset: section;
-            }
-            h3:before {
-                content: counter(chapter) "." counter(subchapter) "." counter(section) " ";
-                counter-increment: section;
-            }
-            h3 {
-            	counter-reset: subsection;
-            }
-            h4:before {
-            	content: counter(chapter) "." counter(subchapter) "." counter(section) "." counter(subsection) " ";
-            	counter-increment: subsection;
-            }
-            h4 {
-            	counter-reset: subsubsection;
-            }
           </style>
         </template>
       `;
       element.innerHTML = customText;
       });
-    </script>
-    
-  
-    <script>
-      const headings = document.querySelectorAll('h1, h2, h3, h4');
-      const jumpLinkList = document.createElement('ul');
-  
-      headings.forEach(heading => {
-        const listItem = document.createElement('li');
-        const anchor = document.createElement('a');
-        anchor.href = `#${heading.id}`;
-        anchor.textContent = heading.textContent;
-        listItem.appendChild(anchor);
-        jumpLinkList.appendChild(listItem);
-      });
-  
-      const jumpLinkContainer = document.getElementById('jumpLinkList');
-      jumpLinkContainer.appendChild(jumpLinkList);
     </script>
   </body>
 </html>
