@@ -24,6 +24,7 @@
     </style>
   </head>
   <body>
+    <div id="jumpLinkList"></div>
     <zero-md class="zero-md" src="https://raw.githubusercontent.com/MichaelMarkert/SODa/main/README.md"></zero-md>
     <zero-md class="zero-md" src="https://raw.githubusercontent.com/MichaelMarkert/SODa/main/README.md"></zero-md>
     <script>
@@ -67,6 +68,24 @@
       `;
       element.innerHTML = customText;
       });
+    </script>
+    
+  
+    <script>
+      const headings = document.querySelectorAll('h1, h2, h3, h4');
+      const jumpLinkList = document.createElement('ul');
+  
+      headings.forEach(heading => {
+        const listItem = document.createElement('li');
+        const anchor = document.createElement('a');
+        anchor.href = `#${heading.id}`;
+        anchor.textContent = heading.textContent;
+        listItem.appendChild(anchor);
+        jumpLinkList.appendChild(listItem);
+      });
+  
+      const jumpLinkContainer = document.getElementById('jumpLinkList');
+      jumpLinkContainer.appendChild(jumpLinkList);
     </script>
   </body>
 </html>
