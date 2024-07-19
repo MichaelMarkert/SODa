@@ -13,49 +13,49 @@
             const predefinedText = `<template>
               <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5/github-markdown.min.css" />
               <style>
-              h1, h2, h3, p, a, blockquote { font-family: Open Sans; font-weight: 500}
-              body {
-                counter-reset: chapter; /* create a chapter counter scope */
+                h1, h2, h3, p, a, blockquote { font-family: Open Sans; font-weight: 500}
+                body {
+                  counter-reset: chapter; /* create a chapter counter scope */
+                  }
+                h1:before {
+                    content: "Chapter " counter(chapter) ". ";
+                    counter-increment: chapter; /* add 1 to chapter */
                 }
-              h1:before {
-                  content: "Chapter " counter(chapter) ". ";
-                  counter-increment: chapter; /* add 1 to chapter */
-              }
-              h1 {
-                  counter-reset: subchapter; /* set section to 0 */
-              }
-              h2:before {
-                  content: counter(chapter) "." counter(subchapter) " ";
-                  counter-increment: subchapter;
-              }
-              h2 {
-                counter-reset: section;
-              }
-              h3:before {
-                  content: counter(chapter) "." counter(subchapter) "." counter(section) " ";
-                  counter-increment: section;
-              }
-              h3 {
-                counter-reset: subsection;
-              }
-              h4:before {
-                content: counter(chapter) "." counter(subchapter) "." counter(section) "." counter(subsection) " ";
-                counter-increment: subsection;
-              }
-              h4 {
-                counter-reset: subsubsection;
-              }
-              h5:before {
-                content: counter(chapter) "." counter(subchapter) "." counter(section) "." counter(subsection) "." counter(subsubsection) " ";
-                counter-increment: subsubsection;
-              }
-              h5 {
-                counter-reset: subsubsubsection;
-              }
-              h6:before {
-                content: counter(chapter) "." counter(subchapter) "." counter(section) "." counter(subsection) "." counter(subsubsection) "." counter(subsubsubsection) " ";
-                counter-increment: subsubsubsection;
-              }
+                h1 {
+                    counter-reset: subchapter; /* set section to 0 */
+                }
+                h2:before {
+                    content: counter(chapter) "." counter(subchapter) " ";
+                    counter-increment: subchapter;
+                }
+                h2 {
+                  counter-reset: section;
+                }
+                h3:before {
+                    content: counter(chapter) "." counter(subchapter) "." counter(section) " ";
+                    counter-increment: section;
+                }
+                h3 {
+                  counter-reset: subsection;
+                }
+                h4:before {
+                  content: counter(chapter) "." counter(subchapter) "." counter(section) "." counter(subsection) " ";
+                  counter-increment: subsection;
+                }
+                h4 {
+                  counter-reset: subsubsection;
+                }
+                h5:before {
+                  content: counter(chapter) "." counter(subchapter) "." counter(section) "." counter(subsection) "." counter(subsubsection) " ";
+                  counter-increment: subsubsection;
+                }
+                h5 {
+                  counter-reset: subsubsubsection;
+                }
+                h6:before {
+                  content: counter(chapter) "." counter(subchapter) "." counter(section) "." counter(subsection) "." counter(subsubsection) "." counter(subsubsubsection) " ";
+                  counter-increment: subsubsubsection;
+                }
               </style>
               </template>`;
             const mdElements = document.querySelectorAll('zero-md');
