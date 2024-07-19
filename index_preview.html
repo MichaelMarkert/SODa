@@ -8,24 +8,6 @@
       import ZeroMd from 'https://cdn.jsdelivr.net/npm/zero-md@3'
       customElements.define('zero-md', ZeroMd)
     </script>
-    <script>
-      document.addEventListener('DOMContentLoaded', () => {
-            // Define the multiline text using template literals
-            const predefinedText = "<template><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5/github-markdown.min.css" /><style>h1, h2, h3, p, a, blockquote { font-family: Open Sans; font-weight: 500}</style></template>";
-
-            // Define the custom element <my-md>
-            class MyMdElement extends HTMLElement {
-                connectedCallback() {
-                    this.textContent = predefinedText;
-                }
-            }
-
-            // Register the custom element
-            customElements.define('zero-md', MyMdElement);
-        });
-      
-    </script>
-
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans" />
     <style>
       zero-md {
@@ -39,8 +21,21 @@
     </style>
   </head>
   <body>
-    <zero-md src="https://raw.githubusercontent.com/MichaelMarkert/SODa/main/README.md"></zero-md>
+    <zero-md id="zero-md" src="https://raw.githubusercontent.com/MichaelMarkert/SODa/main/README.md">
       
-
+    </zero-md>
+    
+    <script>
+      const zeroMDElement = document.getElementById('zero-md');
+      const customText = `
+        <template>
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5/github-markdown.min.css" />
+          <style>
+            h1, h2, h3, p, a, blockquote { font-family: Open Sans; font-weight: 500}
+          </style>
+        </template>
+      `;
+      zeroMDElement.innerHTML = customText;
+    </script>
   </body>
 </html>
