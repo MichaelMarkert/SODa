@@ -1,3 +1,5 @@
+# If you encounter an error related to roles ("only assistant and user allowed") replace "role":system with "role":assistant.
+
 import json
 import urllib2
 
@@ -33,7 +35,6 @@ data = {
     "top_p": 0.95
 }
 
-# Correct JSON encoding:
 data_string = json.dumps(data)  # Convert dictionary to JSON string
 data_bytes = data_string.encode('utf-8')  # Encode to bytes
 
