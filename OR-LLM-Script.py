@@ -35,8 +35,8 @@ data = {
     "top_p": 0.95
 }
 
-data_string = json.dumps(data)  # Convert dictionary to JSON string
-data_bytes = data_string.encode('utf-8')  # Encode to bytes
+data_string = json.dumps(data)
+data_bytes = data_string.encode('utf-8')
 
 req = urllib2.Request(url, data=data_bytes, headers=headers)
 
