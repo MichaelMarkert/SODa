@@ -1,4 +1,4 @@
-# If you encounter an error related to roles ("only assistant and user allowed") replace "role":system with "role":assistant.
+# If you encounter an error related to roles ("only assistant and user allowed") replace "role":"system" with "role":"assistant".
 
 import json
 import urllib2
@@ -23,7 +23,7 @@ data = {
             "role": "user"
         }
     ],
-    "model": "openchat-3.5-7b",
+    "model": "TheBloke/Mistral-7B-Instruct-v0.2-GGUF",
     "stream": False,
     "max_tokens": 2048,
     "stop": [
