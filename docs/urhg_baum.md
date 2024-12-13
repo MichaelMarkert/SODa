@@ -33,7 +33,7 @@ Bestehen Urheber- und andere Schutzrechte an den Metadaten und Digitalisaten?
 
 ## Metadaten ohne Schöpfungshöhe
 
-✅ Eine Schöpfungshöhe wird nicht erreicht. Die Nutzung ist unproblematisch.✅
+✅ Eine Schöpfungshöhe wird nicht erreicht. Die Nutzung ist unproblematisch.
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
 
@@ -41,7 +41,7 @@ Bestehen Urheber- und andere Schutzrechte an den Metadaten und Digitalisaten?
 
 Es ist bei den Metadaten von einem Werk mit einer Schutzfrist von 70 Jahren nach dem Tod des Urhebers auszugehen.
 
-⚠️Es muss eine Nutzungsvereinbarung mit den betreffenden Rechteinhaber:innen geschlossen werden.⚠️
+⚠️ Es muss eine Nutzungsvereinbarung mit den betreffenden Rechteinhaber:innen geschlossen werden.
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
 
@@ -53,8 +53,8 @@ Bestehen urheberrechtlich relevante Schutzrechte am reproduzierten Originalwerk 
 
 - [Nein.](#digitalisatnutzung-vertraglich-regeln)
 
-⚠️Achtung: Es ist zu prüfen, ob andere Schutzrechte berührt werden, etwa der [Datenschutz](#) oder das [Recht am eigenen Bild](#). Diese können ebenfalls einer Datenpublikation bzw. -
-weitergabe entgegenstehen.⚠️
+⚠️ Achtung: Es ist zu prüfen, ob andere Schutzrechte berührt werden, etwa der [Datenschutz](#) oder das [Recht am eigenen Bild](#). Diese können ebenfalls einer Datenpublikation bzw. -
+weitergabe entgegenstehen.
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
 
@@ -124,7 +124,7 @@ Erfolgt eine Weitergabe individuell auf Anfrage direkt an Forscher:innen, Lehren
 
 Zulässig ist die Anfertigung von Reproduktionen zu eigenen Gebrauch – auch durch Dritte - die sogenannte Privatkopie ([§53 UrhG](https://www.gesetze-im-internet.de/urhg/__53.html)).
 
-⚠️[Es ist zusätzlich zu klären, ob Nutzungsrechte am Digitalisat selbst nötig sind.](#digitalisatnutzung-vertraglich-regeln)⚠️
+⚠️ [Es ist zusätzlich zu klären, ob Nutzungsrechte am Digitalisat selbst nötig sind.](#digitalisatnutzung-vertraglich-regeln)
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
 
@@ -142,7 +142,7 @@ Sind die Daten ausschließlich vor Ort an PCs für Mitarbeiter:innen und Nutzer:
 
 Öffentliche, nichtkommerzielle Bibliotheken, Archive und Museen ([§ 60f UrhG](https://www.gesetze-im-internet.de/urhg/__60f.html)) haben für Werke „aus ihrem Bestand oder ihrer Ausstellung für Zwecke der  Zugänglichmachung, Indexierung, Katalogisierung, Erhaltung und Restaurierung“ ([§ 60e UrhG](https://www.gesetze-im-internet.de/urhg/__60e.html)) ein Vervielfältigungsrecht. Sie dürfen die Werke so auch an Nutzer:innenplätzen innerhalb der Institution zugänglich und damit recherchierbar machen.
 
-⚠️[Es ist zusätzlich zu klären, ob Nutzungsrechte am Digitalisat selbst nötig sind.](#digitalisatnutzung-vertraglich-regeln)⚠️
+⚠️ [Es ist zusätzlich zu klären, ob Nutzungsrechte am Digitalisat selbst nötig sind.](#digitalisatnutzung-vertraglich-regeln)
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
 
@@ -160,7 +160,7 @@ Soll das Werk zeitlich begrenzt zur Bewerbung einer Ausstellung genutzt werden?
 
 Die zeitlich begrenzte Werbung für eine Ausstellung und den öffentlichen Verkauf von Werken mit urheberrechtlich geschützten Werken ist zulässig ([§ 58 UrhG](https://www.gesetze-im-internet.de/urhg/__58.html)).
 
-⚠️[Es ist zusätzlich zu klären, ob Nutzungsrechte am Digitalisat selbst nötig sind.](#digitalisatnutzung-vertraglich-regeln)⚠️
+⚠️ [Es ist zusätzlich zu klären, ob Nutzungsrechte am Digitalisat selbst nötig sind.](#digitalisatnutzung-vertraglich-regeln)
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
 
@@ -170,8 +170,8 @@ Wird das Werk in einer wissenschaftlichen Publikation diskutiert oder soll in Fo
 
 - [Ja.](#wissenschaftsschranken)
 
-- [Nein, es ist eine andere, hier nicht genannte Nutzungsart vorgesehen.](#geschützte-werke)
-  ⚠️Hinweis: Das Urheberrecht kennt noch andere Schrankenregelungen, die eventuell in Frage kommen, für Kulturgut aber eher unwahrscheinlich sind – etwa Berichterstattung über Tagesereignisse ([§ 50 UrhG](https://www.gesetze-im-internet.de/urhg/__50.html))
+- [Nein, es ist eine andere, hier nicht genannte Nutzungsart vorgesehen.](#geschützte-werke)<br>
+  ⚠️ Hinweis: Das Urheberrecht kennt noch andere Schrankenregelungen, die eventuell in Frage kommen, für Kulturgut aber eher unwahrscheinlich sind – etwa Berichterstattung über Tagesereignisse ([§ 50 UrhG](https://www.gesetze-im-internet.de/urhg/__50.html))
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
 
@@ -183,7 +183,7 @@ Zweck des Zitats.
 
 Werke bzw. Teile von Werken können darüber hinaus für Unterricht an Schulen und Lehre an Hochschule ([§ 60a UrhG](https://www.gesetze-im-internet.de/urhg/__60a.html)), sowie für wissenschaftliche Forschung ([§ 60c UrhG](https://www.gesetze-im-internet.de/urhg/__60c.html)) vervielfältigt, verbreitet und zugänglich gemacht werden.
 
-⚠️[Es ist zusätzlich zu klären, ob Nutzungsrechte am Digitalisat selbst nötig sind.](#digitalisatnutzung-vertraglich-regeln)⚠️
+⚠️ [Es ist zusätzlich zu klären, ob Nutzungsrechte am Digitalisat selbst nötig sind.](#digitalisatnutzung-vertraglich-regeln)
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
 
@@ -191,7 +191,7 @@ Werke bzw. Teile von Werken können darüber hinaus für Unterricht an Schulen u
 
 Die Rechteinhaber:innen (Urheber:in(nen)/Erb:in(nen), Verwertungsgesellschaft, Verlage usw.) des urheberrechtlich geschützen Werkes können recherchiert werden.
 
-- Ja.
+- [Ja.](#vergriffene-werke)
 
 - [Nein. Das Werk ist anonym oder wir haben trotz umfangreicher Recherchen keine
   Urheberinnen bzw. Rechteinhaberinnen ausfindig machen können.](#verwaiste-werke)
@@ -214,8 +214,8 @@ Es handelt sich um ein vergriffenes Werk nach [§ 61d UrhG](https://www.gesetze-
 
 Kulturinstitutionen dürfen vergriffene Werke zur Bestandsdokumentation online publizieren. Je nach Werktyp werden jährliche Zahlungen an die repräsentativen Verwertungsgesellschaften fällig.
 
-- ✅Perfekt, dann machen wir das so!✅
-  ⚠️[Es ist zusätzlich zu klären, ob Nutzungsrechte am Digitalisat selbst nötig sind.](#digitalisatnutzung-vertraglich-regeln)⚠️
+- ✅ Perfekt, dann machen wir das so!<br>
+  ⚠️ [Es ist zusätzlich zu klären, ob Nutzungsrechte am Digitalisat selbst nötig sind.](#digitalisatnutzung-vertraglich-regeln)
 
 - [Wir haben kein Geld für (regelmäßige) Gebühren.](#werknutzung-vertraglich-regeln)
 
@@ -223,33 +223,33 @@ Kulturinstitutionen dürfen vergriffene Werke zur Bestandsdokumentation online p
 
 ## Verwaiste Werke
 
-✅Es handelt sich um ein verwaistes Werk nach [§ 61 UrhG](https://www.gesetze-im-internet.de/urhg/__61.html). Unter der Voraussetzung von dokumentierten, ergebnislosen Recherchen ([§ 61a UrhG](https://www.gesetze-im-internet.de/urhg/__61a.html)) kann dieses nach Registrierung im [EUIPO(European Union Intellectual Property Office)-Portal](https://www.euipo.europa.eu/de) unter Einhaltung einer 6-Monats-Frist veröffentlicht werden.✅
+✅ Es handelt sich um ein verwaistes Werk nach [§ 61 UrhG](https://www.gesetze-im-internet.de/urhg/__61.html). Unter der Voraussetzung von dokumentierten, ergebnislosen Recherchen ([§ 61a UrhG](https://www.gesetze-im-internet.de/urhg/__61a.html)) kann dieses nach Registrierung im [EUIPO(European Union Intellectual Property Office)-Portal](https://www.euipo.europa.eu/de) unter Einhaltung einer 6-Monats-Frist veröffentlicht werden.
 
-⚠️[Es ist zusätzlich zu klären, ob Nutzungsrechte am Digitalisat selbst nötig sind.](#digitalisatnutzung-vertraglich-regeln)⚠️
+⚠️ [Es ist zusätzlich zu klären, ob Nutzungsrechte am Digitalisat selbst nötig sind.](#digitalisatnutzung-vertraglich-regeln)
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
 
 ## Gemeinfreie Werke
 
-✅Das Werk ist gemeinfrei. Eine Publikation ist unproblematisch.✅
+✅ Das Werk ist gemeinfrei. Eine Publikation ist unproblematisch.
 
-⚠️[Es ist zusätzlich zu klären, ob Nutzungsrechte am Digitalisat selbst nötig sind.](#digitalisatnutzung-vertraglich-regeln)⚠️
+⚠️ [Es ist zusätzlich zu klären, ob Nutzungsrechte am Digitalisat selbst nötig sind.](#digitalisatnutzung-vertraglich-regeln)
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
 
 ## Riskante Publikation
 
-⚠️Eine Veröffentlichung sollte genau abgewogen werden, weil ein Risiko von Forderungen Dritter besteht.⚠️
+⚠️ Eine Veröffentlichung sollte genau abgewogen werden, weil ein Risiko von Forderungen Dritter besteht.
 
-⚠️[Es ist zusätzlich zu klären, ob Nutzungsrechte am Digitalisat selbst nötig sind.](#digitalisatnutzung-vertraglich-regeln)⚠️
+⚠️ [Es ist zusätzlich zu klären, ob Nutzungsrechte am Digitalisat selbst nötig sind.](#digitalisatnutzung-vertraglich-regeln)
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
 
 ## Werknutzung vertraglich regeln
 
-⚠️Es muss eine Nutzungsvereinbarung mit den Rechteinhaber:innen geschlossen werden.⚠️
+⚠️ Es muss eine Nutzungsvereinbarung mit den Rechteinhaber:innen geschlossen werden.
 
-⚠️[Es ist zusätzlich zu klären, ob Nutzungsrechte am Digitalisat selbst nötig sind.](#digitalisatnutzung-vertraglich-regeln)⚠️
+⚠️ [Es ist zusätzlich zu klären, ob Nutzungsrechte am Digitalisat selbst nötig sind.](#digitalisatnutzung-vertraglich-regeln)
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
 
@@ -265,13 +265,13 @@ Gibt es einen Vertrag über die Erstellung der Reproduktion(en) des Werkes bzw. 
 
 ## Vertrag zur Digitalisatnutzung existiert
 
-⚠️Für Nutzungsarten, die über den Vertrag nicht abgedeckt sind, müssen gesondert Nutzungsrechte eingeholt werden.⚠️
+⚠️ Für Nutzungsarten, die über den Vertrag nicht abgedeckt sind, müssen gesondert Nutzungsrechte eingeholt werden.
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
 
 ## Vertrag zur Digitalisatnutzung nicht nötig
 
-✅Eine Nutzung ist unproblematisch.✅
+✅ Eine Nutzung ist unproblematisch.
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
 
@@ -296,24 +296,24 @@ Handelt es sich um eine bloße Vervielfältigung eines gemeinfreien Werkes?
 
 ## Werkschutz des Digitalisats
 
-Es ist beim Digitalisat von einem Lichtbildwerk und damit einer Schutzfrist von 70 Jahren nach dem Tod des Urhebers auszugehen.<br>⚠️Es muss eine Nutzungsvereinbarung mit den Rechteinhaber:innen geschlossen werden.⚠️
+Es ist beim Digitalisat von einem Lichtbildwerk und damit einer Schutzfrist von 70 Jahren nach dem Tod des Urhebers auszugehen.<br>⚠️ Es muss eine Nutzungsvereinbarung mit den Rechteinhaber:innen geschlossen werden.
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
 
 ## Lichtbildschutz des Digitalisats
 
-⚠️Es ist von einem Leistungsschutzrecht am Lichtbild (§72 UrhG) mit einer Schutzfrist von 50 Jahren ohne vorherige Veröffentlichung auszugehen. Wurde innerhalb von 50 Jahren das Lichtbild publiziert, so beginnt die 50-Jahres-Frist mit der Publikation.⚠️
+⚠️ Es ist von einem Leistungsschutzrecht am Lichtbild (§72 UrhG) mit einer Schutzfrist von 50 Jahren ohne vorherige Veröffentlichung auszugehen. Wurde innerhalb von 50 Jahren das Lichtbild publiziert, so beginnt die 50-Jahres-Frist mit der Publikation.
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
 
 ## Reproduktion gemeinfreier Werke
 
-✅An Reproduktionen gemeinfreier Werke entst﻿ehen keine neuen Schutzrechte. Eine Nutzung ist unprobematisch.✅
+✅ An Reproduktionen gemeinfreier Werke entst﻿ehen keine neuen Schutzrechte. Eine Nutzung ist unprobematisch.
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
 
 ## Technische Reproduktion
 
-✅Am Digitalisat sind keine Schutzrechte entstanden.✅
+✅ Am Digitalisat sind keine Schutzrechte entstanden.
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
