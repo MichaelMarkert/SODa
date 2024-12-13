@@ -54,7 +54,7 @@ Bestehen urheberrechtlich relevante Schutzrechte am reproduzierten Originalwerk 
 
 - [Nein.](#digitalisatnutzung-vertraglich-regeln)
 
-⚠️ Achtung: Es ist zu prüfen, ob andere Schutzrechte berührt werden, etwa der [Datenschutz](#) oder das [Recht am eigenen Bild](#). Diese können ebenfalls einer Datenpublikation bzw. -
+⚠️ Achtung: Es ist zu prüfen, ob andere Schutzrechte berührt werden, etwa der [Datenschutz](https://de.wikipedia.org/wiki/Datenschutz-Grundverordnung) oder das [Recht am eigenen Bild](https://de.wikipedia.org/wiki/Recht_am_eigenen_Bild). Diese können ebenfalls einer Datenpublikation bzw. -
 weitergabe entgegenstehen.
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
