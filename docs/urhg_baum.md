@@ -63,5 +63,8 @@ Es ist beim Digitalisat von einem Lichtbildwerk und damit einer Schutzfrist von 
 ✅An Reproduktionen gemeinfreier Werke entst﻿ehen keine neuen Schutzrechte. Eine Nutzung ist unprobematisch.✅
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
+
 ## Technische Reproduktion
 ✅Am Digitalisat sind keine Schutzrechte entstanden.✅
+
+[Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
