@@ -41,6 +41,7 @@ Bestehen Urheber- und andere Schutzrechte an den Metadaten und Digitalisaten?
 Es ist bei den Metadaten von einem Werk mit einer Schutzfrist von 70 Jahren nach dem Tod des Urhebers auszugehen.
 
 ⚠️ Es muss eine Nutzungsvereinbarung mit den betreffenden Rechteinhaber:innen geschlossen werden.
+
 ⚠️ Tipp: Sofern es sich nicht um technisches Personal handelt und die Metadatenerstellung als Kernaufgabe in der Tätigkeitsbeschreibung festgehalten ist, sollten generell schriftliche Vereinbarungenå über die Nachnutzung der Daten seitens der Institution geschlossen werden. Empfohlen wird für Metadaten gemeinhin die Lizenz CC0 ("Public Domain") - das erlaubt etwa eine Verwendung der Daten für GND-Einträge.
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
