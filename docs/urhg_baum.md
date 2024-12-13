@@ -18,8 +18,7 @@ Ich möchte Daten digital zugänglich machen, die Sammlungsobjekte in meiner Ins
 
 Bestehen Urheber- und andere Schutzrechte an den Metadaten und Digitalisaten?
 
-- [Es handelt sich um Metadaten zu Objekten, die von Mitarbeitenden oder
-  Auftragnehmerinnen erstellt wurden.](#formen-von-metadaten)
+- [Es handelt sich um Metadaten zu Objekten, die von Mitarbeitenden oder Auftragnehmerinnen erstellt wurden.](#formen-von-metadaten)
 
 - [Es handelt sich um Digitalisate von Sammlungsobjekten und/oder deren Begleitobjekte.](#relevanz-urheberrechtlicher-fragen)
 
