@@ -1,3 +1,17 @@
+<!--
+
+author:   Michael Markert
+
+email:    michael.markert@fau.de
+
+version:  0.1
+
+language: de
+
+comment:  Der Kurs ist ein Entscheidungsbaum um urheberrechtliche Fragen rund um die Digitalisierung von Objekten in Museums- und Universitätssammlungen.
+          
+-->
+
 ## Ausgangsfrage
 Gibt es einen Vertrag über die Erstellung der Reproduktion(en) des Werkes bzw. Objektes?
 
