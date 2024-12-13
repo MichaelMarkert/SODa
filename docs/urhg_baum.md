@@ -48,7 +48,7 @@ Es ist bei den Metadaten von einem Werk mit einer Schutzfrist von 70 Jahren nach
 
 Bestehen urheberrechtlich relevante Schutzrechte am reproduzierten Originalwerk bzw. der Vorlage?
 
-- [Ja, es handelt sich um ein Werk oder ein Lichtbild?](#greifen-der-schutzfrist)<br>[Was ist ein Werk?](https://de.wikipedia.org/wiki/Werk_(Urheberrecht))<br>[Was ist ein Lichtbild?](https://de.wikipedia.org/wiki/Lichtbild)
+- [Ja, es handelt sich um ein Werk oder ein Lichtbild?](#greifen-der-schutzfrist)<br>[Was ist ein Werk?](https://de.wikipedia.org/wiki/Werk_(Urheberrecht)))<br>[Was ist ein Lichtbild?](https://de.wikipedia.org/wiki/Lichtbild)
 
 - [Nein.](#digitalisatnutzung-vertraglich-regeln)
 
