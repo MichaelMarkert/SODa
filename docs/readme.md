@@ -1,3 +1,4 @@
+## Entscheidungsbaum zu UrhG-Aspekten der Objektdigitalisierung und -publikation
 Die Idee dieses Entscheidungsbaumes ist es, eine erste urheberrechtliche Orientierung für Daten von Objektsammlungen – d. h. Metadaten und Digitalisate – zu geben. 
 Zuerst wurde der Entscheidungsbaum in einem [Miro](https://miro.com/)-Board modelliert: 
 ![Grafische Darstellung des Entscheidungsbaums](https://github.com/MichaelMarkert/SODa/blob/main/docs/urhg_baum.jpg)
