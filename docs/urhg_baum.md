@@ -22,7 +22,8 @@ Bestehen Urheber- und andere Schutzrechte an den Metadaten und Digitalisaten?
 
 - [Es handelt sich um **Digitalisate (Reproduktionen)** von Sammlungsobjekten und/oder deren Begleitobjekte.](#relevanz-urheberrechtlicher-fragen)
 
-> ⚠️ Das Inhaltsverzeichnis dieses Lia-Kurses entspricht allen Elementen des Entscheidungsbaumes und sollte nicht linear durchgeklickt werden. Hier findet sich die [grafische Darstellung](https://github.com/MichaelMarkert/SODa/blob/main/docs/urhg_baum.jpg) des vollständigen Entscheidungsbaumes.
+> ⚠️ Das Inhaltsverzeichnis dieses Dokuments entspricht allen Elementen des Entscheidungsbaumes und sollte nicht linear durchgeklickt werden. Der "Pfad" durch den Baum wird von den Links im Text bestimmt.
+> Hier findet sich die [grafische Darstellung](https://github.com/MichaelMarkert/SODa/blob/main/docs/urhg_baum.jpg) des vollständigen Entscheidungsbaumes.
 
 ## Formen von Metadaten
 
