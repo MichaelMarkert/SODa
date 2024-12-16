@@ -258,7 +258,9 @@ Es handelt sich um ein **vergriffenes Werk** nach [§ 61d UrhG](https://www.gese
 Gibt es einen **Vertrag über die Erstellung der Reproduktion(en)** des Werkes bzw. Objektes?
 
 - [Ja, darin ist die Nutzung geregelt (etwa über die Angabe einer CC-Lizenz).](#vertrag-zur-digitalisatnutzung-existiert)
+  
 - [Nein, das Digitalisat **wurde von technischem Personal erstellt** und die Erstellung von Digitalisaten ist in der entsprechenden Tätigkeitsbeschreibung als **Kernaufgabe** ausgewiesen.](#vertrag-zur-digitalisatnutzung-nicht-nötig)
+  
 - [Nein, die Abbildung wurde von **wissenschaftlichen Mitarbeiter_innen, Volontärinnen, Ehrenamtlichen usw.** erstellt.](#vertrag-zur-digitalisatnutzung-eventuell-nötig)
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
@@ -280,7 +282,9 @@ Gibt es einen **Vertrag über die Erstellung der Reproduktion(en)** des Werkes b
 **Wie** wurde das Digitalisat **erstellt**?
 
 - [Es erfolgten **schöpferische Eingriffe**, etwa werden Beleuchtung und Objektposition angepasst oder Kameraparamater eingestellt, wird nachträglich eine Bildauswahl getroffen, usw.](#werkschutz-des-digitalisats)
+  
 - [Es wurde im wörtlichen oder übertragenen Sinn **'nach Protokoll'** und/oder ohne erkennbare Gestaltungsfreiheit (z. B. Komposition) ein Digitalisat **erstellt** (Schnappschüsse/Arbeitsfotos, frontale Reproduktionsfotografie eines Gemäldes oder einer Grafik, 3D-Scan einer Büste o. ä.).](#gemeinfreiheit)
+  
 - [Es erfolgte eine **rein technische Reproduktion**, etwa mittels Filmstreifen- oder Einzugsscanner.](#technische-reproduktion)
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
@@ -290,6 +294,7 @@ Gibt es einen **Vertrag über die Erstellung der Reproduktion(en)** des Werkes b
 Handelt es sich um eine **bloße Vervielfältigung eines gemeinfreien Werkes**?
 
 - [Ja.](#reproduktion-gemeinfreier-werke)
+  
 - [Nein.](#lichtbildschutz-des-digitalisats)
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
