@@ -1,4 +1,4 @@
 Die Idee dieses Entscheidungsbaumes ist es, eine erste urheberrechtliche Orientierung für Daten von Objektsammlungen – d. h. Metadaten und Digitalisate – zu geben. 
-Zuerst wurde der Entscheidungsbaum in einem Miro-Board modelliert: 
+Zuerst wurde der Entscheidungsbaum in einem [Miro](https://miro.com/)-Board modelliert: 
 ![Grafische Darstellung des Entscheidungsbaums](https://github.com/MichaelMarkert/SODa/blob/main/docs/urhg_baum.jpg)
 Anschließend wurden die Inhalte in ein Markdown-Dokument überführt, die Pfade sind nun Links zwischen kurzen Abschnitten im [Dokument](https://github.com/MichaelMarkert/SODa/blob/main/docs/urhg_baum.md). Beim Umsetzen wurden die Konventionen von [LiaScript](https://liascript.github.io/) eingehalten, daher ist das Dokument zugleich auch als [interaktive Webseite](https://liascript.github.io/course/?https%3A%2F%2Fraw.githubusercontent.com%2FMichaelMarkert%2FSODa%2Fmain%2Fdocs%2Furhg_baum.md) ausführbar.
