@@ -10,6 +10,15 @@ language: de
 
 comment:  Der Kurs ist ein Entscheidungsbaum um urheberrechtliche Fragen rund um die Digitalisierung von Objekten in Museums- und Universitätssammlungen.
 
+<style>
+p {
+    margin-bottom: 2rem;
+}
+ul {
+    margin-bottom: 3rem;
+}
+</style>
+
 -->
 
 ## Ausgangsfrage
