@@ -171,7 +171,7 @@ Wird das Werk in einer **wissenschaftlichen Publikation** diskutiert oder soll i
 
 - [Ja.](#wissenschaftsschranken)
 
-- [Nein, es ist eine andere, hier nicht genannte Nutzungsart vorgesehen.](#geschützte-werke)<br>
+- [Nein, es ist eine andere, hier **nicht genannte Nutzungsart** vorgesehen.](#geschützte-werke)<br>
   ⚠️ Hinweis: Das Urheberrecht kennt noch **andere Schrankenregelungen**, die eventuell in Frage kommen, für Kulturgut aber eher unwahrscheinlich sind – etwa Berichterstattung über Tagesereignisse ([§ 50 UrhG](https://www.gesetze-im-internet.de/urhg/__50.html))
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
