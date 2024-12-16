@@ -256,7 +256,7 @@ Kulturinstitutionen dürfen **vergriffene Werke zur Bestandsdokumentation online
 Gibt es einen **Vertrag über die Erstellung der Reproduktion(en)** des Werkes bzw. Objektes?
 
 - [Ja, darin ist die Nutzung geregelt (etwa über die Angabe einer CC-Lizenz).](#vertrag-zur-digitalisatnutzung-existiert)
-- [Nein, das Digitalisat **dwurde von technischem Personal erstellt** und die Erstellung von Digitalisaten ist in der entsprechenden Tätigkeitsbeschreibung als **Kernaufgabe** ausgewiesen.](#vertrag-zur-digitalisatnutzung-nicht-nötig)
+- [Nein, das Digitalisat **wurde von technischem Personal erstellt** und die Erstellung von Digitalisaten ist in der entsprechenden Tätigkeitsbeschreibung als **Kernaufgabe** ausgewiesen.](#vertrag-zur-digitalisatnutzung-nicht-nötig)
 - [Nein, die Abbildung wurde von **wissenschaftlichen Mitarbeiter_innen, Volontärinnen, Ehrenamtlichen usw.** erstellt.](#vertrag-zur-digitalisatnutzung-eventuell-nötig)
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
