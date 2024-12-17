@@ -317,7 +317,7 @@ Es ist von einem **Leistungsschutzrecht am Lichtbild (§72 UrhG)** mit einer **S
 
 ## Reproduktion gemeinfreier Werke
 
-> An **Reproduktionen gemeinfreier Werke** entst﻿ehen **keine neuen Schutzrechte**. Eine Nutzung ist unprobematisch.
+> An **Reproduktionen gemeinfreier Werke** entst﻿ehen **keine neuen Schutzrechte** [§68 UrhG](https://www.gesetze-im-internet.de/urhg/__68.html). Eine Nutzung ist unprobematisch.
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
 
