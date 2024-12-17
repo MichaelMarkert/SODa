@@ -15,7 +15,7 @@ comment:  Der Kurs ist ein Entscheidungsbaum um urheberrechtliche Fragen rund um
 ## Entscheidungsbaum zu urheberrechtlichen Aspekten der Nutzung von Digitalisaten durch Kulturinstitutionen wie Universitätssammlungen
 Dieser Entscheidungsbaum gibt eine erste urheberrechtliche Orientierung für Daten aus Objektsammlungen – d. h. Metadaten und Digitalisate – und deren Nutzung. Es existiert eine [grafische Darstellung](https://github.com/MichaelMarkert/SODa/blob/main/docs/urhg_baum.jpg) des vollständigen Entscheidungsbaume.
 
-> ⚠️ Die Nutzung der Konventionen von [LiaScript](https://liascript.github.io/) hat leider den Nachteil, dass das Inhaltsverzeichnis dieses Dokuments allen Elementen des Entscheidungsbaumes entspricht. Es sollte nicht wie übliche LiaScript-Kurse mit den Vor- und Zurück-Buttons am unteren Seitenrand bedient werden, sondern mit den Links im Text. Um zurück zur vorherigen Seite zu kommen, sollte der 🔙-Button des Browsers genutzt werden, zurück zum Start kommt man auf jeder "Folie" mit dem Link [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)<br>
+> ⚠️ Die Nutzung der Konventionen von [LiaScript](https://liascript.github.io/) hat leider den Nachteil, dass das Inhaltsverzeichnis dieses Dokuments allen Elementen des Entscheidungsbaumes entspricht. Es sollte nicht wie übliche LiaScript-Kurse mit den Vor- und Zurück-Buttons am unteren Seitenrand bedient werden, sondern mit den Links im Text. Um zurück zur vorherigen Seite zu kommen, sollte der 🔙-Button des Browsers genutzt werden, zurück zum Anfang kommt man auf jeder "Folie" mit dem Link [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage).
 
 [Zum Start des Entscheidungsbaums](#ausgangsfrage)
 
