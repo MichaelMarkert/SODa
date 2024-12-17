@@ -12,6 +12,13 @@ comment:  Der Kurs ist ein Entscheidungsbaum um urheberrechtliche Fragen rund um
 
 -->
 
+## Entscheidungsbaum zu urheberrechtlichen Aspekten der Nutzung von Digitalisaten durch Kulturinstitutionen wie Universitätssammlungen
+Dieser Entscheidungsbaum gibt eine erste urheberrechtliche Orientierung für Daten aus Objektsammlungen – d. h. Metadaten und Digitalisate – und deren Nutzung. Es existiert eine [grafische Darstellung](https://github.com/MichaelMarkert/SODa/blob/main/docs/urhg_baum.jpg) des vollständigen Entscheidungsbaume.
+
+> ⚠️ Die Nutzung der Konventionen von [LiaScript](https://liascript.github.io/) hat leider den Nachteil, dass das Inhaltsverzeichnis dieses Dokuments allen Elementen des Entscheidungsbaumes entspricht. Es sollte nicht wie übliche LiaScript-Kurse mit den Vor- und Zurück-Buttons am unteren Seitenrand bedient werden, sondern mit den Links im Text. Um zurück zur vorherigen Seite zu kommen, sollte der 🔙-Button des Browsers genutzt werden, zurück zum Start kommt man auf jeder "Folie" mit dem Link [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)<br>
+
+[Zum Start des Entscheidungsbaums](#ausgangsfrage)
+
 ## Ausgangsfrage
 
 Ich möchte **Daten digital zugänglich machen**, die Sammlungsobjekte in meiner Institution betreffen.
@@ -22,16 +29,13 @@ Bestehen Urheber- und andere Schutzrechte an den Metadaten und Digitalisaten?
 
 - [Es handelt sich um **Digitalisate (Reproduktionen)** von Sammlungsobjekten und/oder deren Begleitobjekte.](#relevanz-urheberrechtlicher-fragen)
 
-> ⚠️ Das Inhaltsverzeichnis dieses Dokuments entspricht allen Elementen des Entscheidungsbaumes und sollte nicht linear durchgeklickt werden. Der "Pfad" durch den Baum wird von den Links auf den Einzelseiten bestimmt, es ist daher besser, den 🔙-Button des Browsers zu verwenden oder direkt per Link zu dieser Folie ("Ausgangsfrage") zurückzuspringen.<br>
-> Es existiert eine [grafische Darstellung](https://github.com/MichaelMarkert/SODa/blob/main/docs/urhg_baum.jpg) des vollständigen Entscheidungsbaumes.
-
 ## Formen von Metadaten
 
 - [Es sind **ausschließlich strukturierte Information** wie einzelne Worte oder kurze Wortgruppen, Vokabularelemente, Literaturangaben, Inventarnummern, Identifier oder Werte.](#metadaten-ohne-schöpfungshöhe)
 
 - [Es handelt sich um **mehrzeilige Felder** mit ganzen Sätzen oder Absätzen (Bildbeschreibungen, Biographien u. ä.).](#metadaten-mit-schöpfungshöhe)
 
-[Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
+
 
 ## Metadaten ohne Schöpfungshöhe
 
