@@ -231,7 +231,7 @@ Es handelt sich um ein **vergriffenes Werk** nach [§ 61d UrhG](https://www.gese
 
 ## Gemeinfreie Werke
 
-> Das Werk ist **gemeinfrei**. Eine Publikation ist **unproblematisch**.
+> Das Werk ist **gemeinfrei** [§64 UrhG](https://www.gesetze-im-internet.de/urhg/__64.html). Eine Publikation ist **unproblematisch**.
 
 > ⚠️ [Es ist zusätzlich zu klären, ob **Nutzungsrechte am Digitalisat** selbst nötig sind.](#digitalisatnutzung-vertraglich-regeln)
 
