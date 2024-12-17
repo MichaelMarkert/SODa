@@ -69,7 +69,7 @@ Ist die **Schutzfrist** des reproduzierten Originalwerks bzw. der Vorlage **abge
 
 - [Nein.](#geschützte-werke)
 
-- [Weiß nicht.](#fristbestimmung)
+- [Ich weiß nicht, was eine Schutzfrist ist oder wann sie abgelaufen ist.](#fristbestimmung)
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
 
