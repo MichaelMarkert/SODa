@@ -35,7 +35,7 @@ Bestehen Urheber- und andere Schutzrechte an den Metadaten und Digitalisaten?
 
 - [Es handelt sich um **mehrzeilige Felder** mit ganzen Sätzen oder Absätzen (Bildbeschreibungen, Biographien u. ä.).](#metadaten-mit-schöpfungshöhe)
 
-
+[Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
 
 ## Metadaten ohne Schöpfungshöhe
 
