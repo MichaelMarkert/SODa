@@ -61,7 +61,7 @@ Es ist bei den Metadaten von einem Werk mit einer **Schutzfrist von 70 Jahren** 
 
 - [Nein.](#digitalisatnutzung-vertraglich-regeln)
 
-> ⚠️ Achtung: Es ist zu **prüfen, ob andere Schutzrechte berührt** werden, etwa wenn personenbezogene Daten enthalten ([Datenschutzgrundverordnung](https://de.wikipedia.org/wiki/Datenschutz-Grundverordnung)) oder Personen individuell erkennbar abgebildet ([Recht am eigenen Bild](https://de.wikipedia.org/wiki/Recht_am_eigenen_Bild)) sind. Diese können ebenfalls einer Datenpublikation bzw. -weitergabe entgegenstehen.
+> ⚠️ Achtung: Es ist zu **prüfen, ob andere Schutzrechte berührt** werden, etwa wenn personenbezogene Daten enthalten ([Entscheidungsbaum zum Anwendungsbereich der Datenschutzgrundverordnung von BERD@BW](https://wiki.bib.uni-mannheim.de/xerte/play.php?template_id=224#page1)) oder Personen individuell erkennbar abgebildet ([Recht am eigenen Bild](https://de.wikipedia.org/wiki/Recht_am_eigenen_Bild)) sind. Diese können ebenfalls einer Datenpublikation bzw. -weitergabe entgegenstehen.
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
 
