@@ -213,7 +213,7 @@ Es handelt sich um ein **vergriffenes Werk** nach [§ 61d UrhG](https://www.gese
 
 ## Publikation vergriffener Werke
 
-> Kulturinstitutionen dürfen **vergriffene Werke zur Bestandsdokumentation online** publizieren. Je nach Werktyp werden **jährliche Gebühren** an die repräsentativen Verwertungsgesellschaften fällig.
+> Kulturinstitutionen dürfen **vergriffene Werke zur Bestandsdokumentation online** publizieren. Je nach Werktyp werden **jährliche Gebühren** an die repräsentativen Verwertungsgesellschaften fällig, das Prozedere wird auf der [Webseite der Deutschen Digitalen Bibliothek](https://pro.deutsche-digitale-bibliothek.de/daten-liefern/teilnahmekriterien/rechtliches/digitalisierung-noch-urheberrechtlich-geschuetzter-materialien) beschrieben.
 
 > ⚠️ [Es ist zusätzlich zu klären, ob **Nutzungsrechte am Digitalisat** selbst nötig sind.](#digitalisatnutzung-vertraglich-regeln)
 
