@@ -53,12 +53,11 @@ Es ist bei den Metadaten von einem Werk mit einer **Schutzfrist von 70 Jahren** 
 
 **Bestehen** urheberrechtlich relevante **Schutzrechte** am reproduzierten Originalwerk bzw. der Vorlage?
 
-- [Ja, es handelt sich um ein Werk oder ein Lichtbild?](#greifen-der-schutzfrist)<br>❓[Was ist ein Werk?](https://w.wiki/CQRw)<br>❓[Was ist ein Lichtbild?](https://de.wikipedia.org/wiki/Lichtbild)
+- [Ja, es handelt sich um ein Werk oder ein Lichtbild.](#greifen-der-schutzfrist)<br>❓[Was ist ein Werk?](https://w.wiki/CQRw)<br>❓[Was ist ein Lichtbild?](https://de.wikipedia.org/wiki/Lichtbild)
 
 - [Nein.](#digitalisatnutzung-vertraglich-regeln)
 
-> ⚠️ Achtung: Es ist zu **prüfen, ob andere Schutzrechte berührt** werden, etwa der [Datenschutz](https://de.wikipedia.org/wiki/Datenschutz-Grundverordnung) oder das [Recht am eigenen Bild](https://de.wikipedia.org/wiki/Recht_am_eigenen_Bild). Diese können ebenfalls einer Datenpublikation bzw. -
-weitergabe entgegenstehen.
+> ⚠️ Achtung: Es ist zu **prüfen, ob andere Schutzrechte berührt** werden, etwa wenn personenbezogene Daten enthalten[Datenschutzgrundverordnung](https://de.wikipedia.org/wiki/Datenschutz-Grundverordnung) oder Personen individuell erkennbar abgebildet [Recht am eigenen Bild](https://de.wikipedia.org/wiki/Recht_am_eigenen_Bild) sind. Diese können ebenfalls einer Datenpublikation bzw. -weitergabe entgegenstehen.
 
 [Zurück zur Ausgangsfrage (Start)](#ausgangsfrage)
 
