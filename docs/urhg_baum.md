@@ -41,7 +41,7 @@ Bestehen Urheber- und andere Schutzrechte an den Metadaten und Digitalisaten?
 
 ## Metadaten mit Schöpfungshöhe
 
-Es ist bei den Metadaten von einem Werk mit einer **Schutzfrist von 70 Jahren** nach dem Tod des Urhebers auszugehen.
+Es ist bei den Metadaten von einem Werk mit einer **Schutzfrist von 70 Jahren** ([§64 UrhG](https://www.gesetze-im-internet.de/urhg/__64.html)) nach dem Tod des Urhebers auszugehen.
 
 > Es muss eine **Nutzungsvereinbarung** mit den betreffenden Rechteinhaber:innen geschlossen werden.
 
